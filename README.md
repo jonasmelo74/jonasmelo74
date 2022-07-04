@@ -1,4 +1,4 @@
-### Olá, sou Jonas Melo, desenvolvedor WEB.
+### Olá, sou Jonas Melo, Desenvolvedor Front End.
 
 <div align="center">
   <a href="https://github.com/jonasmelo74">
