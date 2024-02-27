@@ -1,8 +1,12 @@
-### Olá, sou Jonas Melo, Desenvolvedor WEB.
+### Hi there 👋
+Some quick notes while I'm setting this up:
+
+🔭 I’m currently working on various things at GitHub
+📫 How to reach me: Email, LinkedIn
+😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/jonasmelo74">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmelo74&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmelo74&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
@@ -14,7 +18,11 @@
     <img align="center" alt="Angular" heigth="27" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
     <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Node" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Nest" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" alt="Node" height="35" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="Node" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Node" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+              
+          
 </div>
   
   
