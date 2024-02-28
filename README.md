@@ -3,7 +3,6 @@ Some quick notes while I'm setting this up:
 
 🔭 I’m currently working on various things at GitHub
 📫 How to reach me: Email, LinkedIn
-😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/jonasmelo74">
