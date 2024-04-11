@@ -5,7 +5,7 @@ With over 2 years of experience in the field, I've had the opportunity to work o
 🔭 I’m currently working on various things at GitHub
 📫 How to reach me: Email, LinkedIn
 
-### FrontEnd & Mobile Techs 👋
+### Frontend & Mobile Techs 👋
   <div style="display: inline_block">
     <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
     <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
@@ -14,7 +14,7 @@ With over 2 years of experience in the field, I've had the opportunity to work o
     <img align="center" alt="Bootstrap" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   </div>
   
-### BackEnd Techs 👋
+### Backend Techs 👋
   <div style="display: inline_block">
     <img align="center" alt="NODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Nest.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
