@@ -2,8 +2,8 @@
 I'm Jonas Melo, a passionate software developer and tech enthusiast. I currently work as a Full Stack Software Developer at Essentia Technologies.
 I've had the opportunity to work on various exciting projects and explore different technologies.
 
-🔭 I’m currently working on various things at GitHub
-📫 How to reach me: Email, LinkedIn
+🔭 I’m currently working on various things at GitHub.
+📫 How to reach me: Email, LinkedIn.
 
 ### Frontend & Mobile Techs 👋
   <div style="display: inline_block">
