@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Jonas Melo 👋</h1>
 
 <p align="center">
-  Full Stack Software Developer focused on building modern, scalable and high-performance web applications.
+  Full Stack Software Developer focused on scalable applications, clean architecture and modern web technologies.
 </p>
 
 <p align="center">
-  Passionate about Angular, Java, Spring Boot, TypeScript and modern frontend architecture.
+  Passionate about Java, Spring Boot, Angular, TypeScript and software architecture.
 </p>
 
 <p align="center">
@@ -14,46 +14,15 @@
   <a href="https://instagram.com/jonas__melo?igshid=YmMyMTA2M2Y=">Instagram</a>
 </p>
 
----
-
-## Tech Stack
-
-### Frontend
-- Angular
-- TypeScript
-- React
-- HTML5
-- CSS3
-- Sass
-- Bootstrap
-
-### Backend
-- Java
-- Spring Boot
-- Node.js
-- NestJS
-- MySQL
-- MongoDB
-
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
-- DBeaver
-
----
-
-## Current Focus
-
-- Building scalable frontend architectures
-- Improving backend development with Spring Boot
-- Learning more about software architecture and clean code
-- Creating personal projects and exploring new technologies
+## 🚀 Currently Improving
+- Scalable backend architecture
+- Frontend performance and clean UI
+- Microservices communication
+- Software design patterns
+- Full Stack application scalability
 
 ---
 
 <p align="center">
-  Always learning, building and improving 🚀
+  Always learning, building and evolving 🚀
 </p>
